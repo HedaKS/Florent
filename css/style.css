@@ -1,0 +1,146 @@
+
+
+nav{
+    background-color:#464848;
+    height: 25px;
+    width: 102%;
+    margin: auto;   
+}
+.menu1{
+    font-weight: bolder;
+   margin-left: 100px;
+   color:white ;
+   font-size:larger;
+   border: 1px solid black;
+  transition: 1s;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+  
+}
+.menu2{
+    font-weight: bolder;
+   margin-left: 100px;
+   color:white ;
+   font-size:larger;
+   border: 1px solid black;
+  transition: 1s;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu3{
+    font-weight: bolder;
+   margin-left: 100px;
+   color:white ;
+   font-size:larger;
+   border: 1px solid black;
+  transition: 1s;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu4{
+    font-weight: bolder;
+   margin-left: 100px;
+   color:white ;
+   font-size:larger;
+   border: 1px solid black;
+  transition: 1s;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu5{
+    font-weight: bolder;
+   margin-left: 100px;
+   color:white ;
+   font-size:larger;
+   border: 1px solid black;
+  transition: 1s;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu1:hover{
+    opacity: 0.5;
+    color:ghostwhite
+}
+.menu2:hover{
+    opacity: 0.5;
+    color:ghostwhite
+}
+.menu3:hover{
+    opacity: 0.5;
+    color:ghostwhite
+}
+.menu4:hover{
+    opacity: 0.5;
+    color:ghostwhite
+}
+.menu5:hover{
+    opacity: 0.5;
+    color:ghostwhite;
+}
+
+.search{
+    width:800px;
+    height: 40px;
+    margin-left: 50px;
+}
+header{
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    background-color:grey;
+
+}
+
+#pc{
+    width: 300px;
+    height: 300px;
+    background-color: #732166;
+    margin-left: 105px;
+    
+}
+.si{
+    margin-left: 50px;
+}
+#pcportable{
+    width: 300px;
+    height: 300px;
+    background-color: #732166;
+    margin-left: 600px;
+    margin-top: -300px;
+}
+.pcp{
+    margin-left: 50px;
+}
+
+#composants{
+    width: 300px;
+    height: 300px;
+    background-color: #732166;
+    margin-left: 1050px;
+    margin-top: -300px;
+}
+.compo{
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+    font-size:x-large;
+}
+
+article{
+    background-color:#464848;
+}
+
+#imgpc
+{
+    width: 200px;
+    height: 200px;
+}
+
+#imgpcpor
+{
+    width: 200px;
+    height: 200px;
+}
+
+#imgcasque
+{
+    width: 200px;
+    height: 200px;
+}
